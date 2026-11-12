@@ -30,11 +30,6 @@ the console's system software is reimplemented, and the Switch 2 graphics are re
 **on your PC, from your own copy of the game**.
 <br>
 
-> [!WARNING]
-> Some users report the file in releases to be a Trojan - it is not. Feel free to run it through any antivirus software
-
-
-Discord: https://discord.gg/rexed
 <br>
 
 > [!IMPORTANT]
